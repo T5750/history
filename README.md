@@ -41,6 +41,18 @@
 * [虚拟展厅](https://canalmuseum.net/exhibition/61f407e7204e7dda12/)
 * [典藏文物](https://canalmuseum.net/collection/)
 
+### 湖南博物院
+湖南博物院是湖南省最大的历史艺术类博物馆，是首批国家一级博物馆，中央地方共建的八个国家级重点博物馆之一、全国文化系统先进集体、全国文物系统先进集体、全国爱国主义教育示范基地、文化强省建设有突出贡献先进集体。
+* [http://www.hnmuseum.com/](http://www.hnmuseum.com/)
+* [网上展厅](http://www.hnmuseum.com/zh-hans/content/%E7%BD%91%E4%B8%8A%E5%B1%95%E5%8E%85)
+* [馆藏国宝](http://www.hnmuseum.com/zh-hans/guangcang_gauobao)
+* [藏品数据库](http://61.187.53.122/List.aspx?lang=zh-CN)
+
+### 河南博物院
+河南博物院创建于1927年，是我国成立较早的博物馆之一。2009年入选首批中央地方共建国家级博物馆 。
+* [http://www.chnmus.net/](http://www.chnmus.net/)
+* [虚拟展览](http://www.chnmus.net/sitesources/hnsbwy/page_html5/clzl/xnzl/list1.html)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -60,12 +72,19 @@ DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 * [中国通史](https://book.douban.com/subject/26771878/)
 * [国史大纲](https://book.douban.com/subject/7000811/)
 * [全球通史](https://book.douban.com/subject/10583099/)
+* [国家人文历史](https://www.gjrwls.com/glmgz/)
+* [历史研究](https://www.ncpssd.org/journal/details.aspx?gch=81900X&nav=1&langType=1)
 
 ## 视频
 * [国家宝藏 第一季](https://tv.cctv.com/2017/11/29/VIDAjmY28VSqK4hfQtHw0yJE171129.shtml)
 * [国家宝藏 第二季](https://tv.cctv.com/v/vs2/VIDAPCytcBT7e1qCXPBCACof181210.html)
 * [国家宝藏 第三季](https://tv.cctv.com/v/vs2/VIDAjjqG2GbAF794RfZ7j0Xj201204.html)
 * [国家宝藏•展演季](https://tv.cctv.com/v/vs2/VIDAzCfwcK0oNB9K6BOrUYdE211019.html)
+
+## 网站
+* [书格](https://new.shuge.org/)：一个自由开放的在线古籍图书馆
+* [中华珍宝馆](https://g2.ltfc.net/)
+* [全历史](https://www.allhistory.com/)
 
 ## 关于
 独乐乐不如众乐乐，历史点滴，分享你我。
