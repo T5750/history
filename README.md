@@ -53,6 +53,18 @@
 * [http://www.chnmus.net/](http://www.chnmus.net/)
 * [虚拟展览](http://www.chnmus.net/sitesources/hnsbwy/page_html5/clzl/xnzl/list1.html)
 
+### 湖北省博物馆
+湖北省博物馆是中央与地方共建的八家国家级博物馆之一，是湖北省最为重要的文物收藏、保护、研究、展示、教育机构，是弘扬荆楚文化的阵地和展示荆楚文明的窗口。
+* [http://www.hbww.org/home/Index.aspx](http://www.hbww.org/home/Index.aspx)
+* [虚拟展览](https://www.hbww.org.cn/Views/Collection.aspx?PNo=Exhibition&No=XNZL&type=List)
+
+### 浙江省博物馆
+2008年5月18日，浙江省博物馆被国家文物局评为“国家一级博物馆”。
+* [https://www.zhejiangmuseum.com/](https://www.zhejiangmuseum.com/)
+* [镇馆之宝](https://www.zhejiangmuseum.com/wap/#/Collection/Treasure)
+* [3D文物](https://www.zhejiangmuseum.com/wap/#/DigitalMuseum/DigitalCollection)
+* [数字展厅](https://www.zhejiangmuseum.com/wap/#/DigitalMuseum/DigitalCommonExhibition/DigitalExhibition)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
