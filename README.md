@@ -65,6 +65,15 @@
 * [3D文物](https://www.zhejiangmuseum.com/wap/#/DigitalMuseum/DigitalCollection)
 * [数字展厅](https://www.zhejiangmuseum.com/wap/#/DigitalMuseum/DigitalCommonExhibition/DigitalExhibition)
 
+### 辽宁省博物馆
+辽宁省博物馆是以历史艺术为主体的综合性博物馆。集收藏、保护、研究、展示和社会服务于一体，是国家一级博物馆。
+* [http://www.lnmuseum.com.cn/](http://www.lnmuseum.com.cn/)
+* [数字化博物馆](https://www.lnmuseum.com.cn/index/index/digital)
+
+### 首都博物馆
+首都博物馆以其宏大的建筑、丰富的展览、先进的技术、完善的功能，成为一座与北京“历史文化名城”、“文化中心”和“国际化大都市”地位相称的大型现代化博物馆，并跻身于“国内一流，国际先进”的博物馆行列。
+* [http://www.capitalmuseum.org.cn/](http://www.capitalmuseum.org.cn/)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -86,6 +95,9 @@ DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 * [全球通史](https://book.douban.com/subject/10583099/)
 * [国家人文历史](https://www.gjrwls.com/glmgz/)
 * [历史研究](https://www.ncpssd.org/journal/details.aspx?gch=81900X&nav=1&langType=1)
+* [万历十五年](https://book.douban.com/subject/1041482/)
+* [人类简史](https://book.douban.com/subject/25985021/)
+* [明朝那些事儿](https://book.douban.com/subject/3674537/)
 
 ## 视频
 * [国家宝藏 第一季](https://tv.cctv.com/2017/11/29/VIDAjmY28VSqK4hfQtHw0yJE171129.shtml)
