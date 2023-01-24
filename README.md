@@ -74,6 +74,19 @@
 首都博物馆以其宏大的建筑、丰富的展览、先进的技术、完善的功能，成为一座与北京“历史文化名城”、“文化中心”和“国际化大都市”地位相称的大型现代化博物馆，并跻身于“国内一流，国际先进”的博物馆行列。
 * [http://www.capitalmuseum.org.cn/](http://www.capitalmuseum.org.cn/)
 
+### 山西博物院
+山西博物院是全省最大的文物征集、收藏、保护、研究和展示的公共文化服务机构，承担着传承中华文明和山西历史文化的职责使命。2008 年 3 月起免费向公众开放，同年 5 月入选首批国家一级博物馆，2009 年成为 11 个中央地方共建国家级博物馆之一。
+* [http://www.shanximuseum.com/](http://www.shanximuseum.com/)
+* [网上展厅](http://www.shanximuseum.com/sx/exhibition/net)
+* [藏品](http://www.shanximuseum.com/sx/collection/classic.html)
+
+### 重庆中国三峡博物馆
+重庆中国三峡博物馆（重庆博物馆）是一座集巴渝文化、三峡文化、抗战文化、移民文化和城市文化等为特色的历史艺术类综合性博物馆，是中央地方共建国家级博物馆。
+* [http://www.3gmuseum.cn/](http://www.3gmuseum.cn/)
+* [三维藏品](http://www.3gmuseum.cn/web/collection/toCollection.do?itemno=4086522052551f21g55h1d25a1s2s1g5&itemsonno=4028809a5ffb19aa015ffb1ef0a20005)
+* [虚拟展览](http://www.3gmuseum.cn/web/article/virtual/toVirtual.do?base=&fullPath=http%3A%2F%2Fwww.3gmuseum.cn&type=&itemsonno=40288a9b6680a1b4016680e05be60022&topitemno=20&itemno=20++++++++++++++++++++++++++++++)
+* [视听导览](http://www.3gmuseum.cn/web/item/findleftitemByitemnoCenter.do?itemno=50&itemsonno=4028809a5f37daec015f37e460b70000)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
