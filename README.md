@@ -87,6 +87,29 @@
 * [虚拟展览](http://www.3gmuseum.cn/web/article/virtual/toVirtual.do?base=&fullPath=http%3A%2F%2Fwww.3gmuseum.cn&type=&itemsonno=40288a9b6680a1b4016680e05be60022&topitemno=20&itemno=20++++++++++++++++++++++++++++++)
 * [视听导览](http://www.3gmuseum.cn/web/item/findleftitemByitemnoCenter.do?itemno=50&itemsonno=4028809a5f37daec015f37e460b70000)
 
+### 敦煌研究院
+已发展成为我国拥有世界文化遗产数量最多、跨区域范围最广的文博管理机构，在国内外具有相当影响力的遗址博物馆、敦煌学研究实体、古代壁画与土遗址保护科研基地、国家一级博物馆。
+* [https://www.dha.ac.cn/](https://www.dha.ac.cn/)
+* [数字敦煌](https://www.e-dunhuang.com/)
+* [直播回顾](https://www.dha.ac.cn/whzy.htm)
+
+### 秦始皇帝陵博物院
+* [http://www.bmy.com.cn/](http://www.bmy.com.cn/)
+* [在线展览](http://www.bmy.com.cn/html/public/zl/zxzl/9b5c09ab913840fc923263c8c042e511.html?mode=%E5%9C%A8%E7%BA%BF%E5%B1%95%E8%A7%88&code=005003004)
+* [书籍下载](http://www.bmy.com.cn/html/gov/ky/sjxz/98255a7b110941c3a0f87b95f989613a.html?mode=%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD&column_id=98255a7b110941c3a0f87b95f989613a)
+
+### 西安博物院
+西安博物院是一座集文物收藏﹑科学研究﹑社会教育﹑园林休闲为一体的城市博物馆。现为国家一级博物馆、全国AAAA级旅游景区。
+* [https://www.xabwy.com/](https://www.xabwy.com/)
+* [数字展厅](https://www.xabwy.com/zl.html?id=84&name=%20%E6%95%B0%E5%AD%97%E5%B1%95%E5%8E%85)
+* [三维展示](https://www.xabwy.com/showtwo.html?id=497&type=43&num=5)
+
+### 汉景帝阳陵博物院
+汉景帝阳陵博物院位于西安市北郊的渭河之畔，依托全国重点文物保护单位汉阳陵而建立。1999年建成开放，现为国家一级博物馆、国家考古遗址公园、国家AAAA级旅游景区。
+* [http://www.hylae.com/](http://www.hylae.com/)
+* [虚拟展厅](http://www.hylae.com/index.php?ac=article&at=list&tid=36)
+* [藏品](http://www.hylae.com/index.php?ac=article&at=list&tid=37)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
