@@ -110,6 +110,31 @@
 * [虚拟展厅](http://www.hylae.com/index.php?ac=article&at=list&tid=36)
 * [藏品](http://www.hylae.com/index.php?ac=article&at=list&tid=37)
 
+### 宁波博物院
+* [http://www.nbmuseum.cn/](http://www.nbmuseum.cn/)
+* [3D展示](http://www.nbmuseum.cn/col/col581/index.html)
+* [数字漫游](http://www.nbmuseum.cn/col/col1001/index.html)
+* [在线阅读](http://www.nbmuseum.cn/col/col644/index.html)
+
+### 成都博物馆
+* [https://www.cdmuseum.com/](https://www.cdmuseum.com/)
+* [网上展厅](https://www.cdmuseum.com/zhanting/)
+* [馆藏精品](https://www.cdmuseum.com/jingpin.html)
+
+### 温州博物馆
+* [https://www.wzmuseum.cn/](https://www.wzmuseum.cn/)
+* [全景展厅](https://www.wzmuseum.cn/Art/Art_81/Art_81_3755.aspx)
+
+### 嘉兴博物馆
+* [http://www.jiaxingmuseum.com/](http://www.jiaxingmuseum.com/)
+* [虚拟展厅](https://www.jiaxingmuseum.com/#/exhibition)
+
+### 金沙遗址博物馆
+* [http://www.jinshasitemuseum.com/](http://www.jinshasitemuseum.com/)
+* [VR导览](http://cloud.jinshasitemuseum.com/#/vr?lang=0)
+* [云展览](http://cloud.jinshasitemuseum.com/#/curation?lang=0)
+* [3D文物](http://cloud.jinshasitemuseum.com/#/threed?lang=0)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -123,17 +148,19 @@ DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 * [中华古籍资源库](http://read.nlc.cn/thematDataSearch/toGujiIndex)
 
 ### 世界名画
+* [故宫名画记](https://minghuaji.dpm.org.cn)
 * [麦田艺术](https://www.nbfox.com/)
 
 ## 书籍
 * [中国通史](https://book.douban.com/subject/26771878/)
 * [国史大纲](https://book.douban.com/subject/7000811/)
-* [全球通史](https://book.douban.com/subject/10583099/)
+* [全球通史](https://book.douban.com/subject/10583099/)：新世界需要新史学
 * [国家人文历史](https://www.gjrwls.com/glmgz/)
 * [历史研究](https://www.ncpssd.org/journal/details.aspx?gch=81900X&nav=1&langType=1)
 * [万历十五年](https://book.douban.com/subject/1041482/)
 * [人类简史](https://book.douban.com/subject/25985021/)
 * [明朝那些事儿](https://book.douban.com/subject/3674537/)
+* [第二次世界大战史](https://m.douban.com/book/subject/35587343/)
 
 ## 视频
 * [国家宝藏 第一季](https://tv.cctv.com/2017/11/29/VIDAjmY28VSqK4hfQtHw0yJE171129.shtml)
