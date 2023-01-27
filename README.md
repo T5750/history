@@ -135,6 +135,17 @@
 * [云展览](http://cloud.jinshasitemuseum.com/#/curation?lang=0)
 * [3D文物](http://cloud.jinshasitemuseum.com/#/threed?lang=0)
 
+### 三星堆博物馆
+* [https://www.sxd.cn/](https://www.sxd.cn/)
+* [文物典藏](https://www.sxd.cn/mobile/#/collection)
+* [虚拟展厅](https://www.sxd.cn/mobile/#/exhibition/moreList/3)
+
+### 中国丝绸博物馆
+位于杭州西子湖畔玉皇山下的中国丝绸博物馆是国家一级博物馆，中国最大的纺织服装类专业博物馆，也是全世界最大的丝绸专业博物馆。
+* [https://www.chinasilkmuseum.com/](https://www.chinasilkmuseum.com/)
+* [云上展览](https://www.chinasilkmuseum.com/Cloudzl/list_367.aspx)
+* [藏品](https://www.chinasilkmuseum.com/zggd/list_21.aspx)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -142,6 +153,10 @@ The Met presents over 5,000 years of art from around the world for everyone to e
 ### 巴黎市博物馆联盟
 DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 * [https://www.parismuseescollections.paris.fr/en](https://www.parismuseescollections.paris.fr/en)
+
+### 京都国立博物馆
+* [https://www.kyohaku.go.jp/zh-s/](https://www.kyohaku.go.jp/zh-s/)
+* [藏品](https://www.kyohaku.go.jp/zh-s/collection/)
 
 ## 资源库
 * [中国国家图书馆](http://www.nlc.cn/)
