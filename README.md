@@ -57,6 +57,7 @@
 湖北省博物馆是中央与地方共建的八家国家级博物馆之一，是湖北省最为重要的文物收藏、保护、研究、展示、教育机构，是弘扬荆楚文化的阵地和展示荆楚文明的窗口。
 * [http://www.hbww.org/home/Index.aspx](http://www.hbww.org/home/Index.aspx)
 * [虚拟展览](https://www.hbww.org.cn/Views/Collection.aspx?PNo=Exhibition&No=XNZL&type=List)
+* [典藏](http://www.hbww.org/Views/CollectionIndex.aspx?PNo=Collection&No=Collection&type=Default)
 
 ### 浙江省博物馆
 2008年5月18日，浙江省博物馆被国家文物局评为“国家一级博物馆”。
@@ -146,6 +147,14 @@
 * [云上展览](https://www.chinasilkmuseum.com/Cloudzl/list_367.aspx)
 * [藏品](https://www.chinasilkmuseum.com/zggd/list_21.aspx)
 
+### 无锡博物院
+原无锡市科普馆、无锡博物馆、无锡革命陈列馆“三馆合一”组建成无锡博物院。
+* [http://www.wxmuseum.com/](http://www.wxmuseum.com/)
+* [虚拟展览](http://www.wxmuseum.com/Exhibition/Other/Xnporary)
+* [典藏](http://www.wxmuseum.com/Collection/BookList/shbk)
+* [教育资源](http://www.wxmuseum.com/News/List/jyzy?type=ygz)
+* [无锡科技馆 虚拟展览](http://www.wxmuseum.com/quanjing/02Easter%20technology%20museum/vtour/tour.html)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -176,6 +185,9 @@ DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 * [人类简史](https://book.douban.com/subject/25985021/)
 * [明朝那些事儿](https://book.douban.com/subject/3674537/)
 * [第二次世界大战史](https://m.douban.com/book/subject/35587343/)
+* [史记](https://book.douban.com/subject/1836555/)
+* [永乐大典](https://book.douban.com/subject/3479405/)
+* [三国志](https://book.douban.com/subject/1926289/)
 
 ## 视频
 * [国家宝藏 第一季](https://tv.cctv.com/2017/11/29/VIDAjmY28VSqK4hfQtHw0yJE171129.shtml)
