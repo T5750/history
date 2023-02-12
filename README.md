@@ -155,6 +155,11 @@
 * [教育资源](http://www.wxmuseum.com/News/List/jyzy?type=ygz)
 * [无锡科技馆 虚拟展览](http://www.wxmuseum.com/quanjing/02Easter%20technology%20museum/vtour/tour.html)
 
+### 青岛市博物馆
+* [http://www.qingdaomuseum.cn/](http://www.qingdaomuseum.cn/)
+* [下载中心](http://www.qingdaomuseum.cn/publication)
+* [虚拟博物馆](http://www.qingdaomuseum.cn/xnmuseum/index)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -166,6 +171,11 @@ DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 ### 京都国立博物馆
 * [https://www.kyohaku.go.jp/zh-s/](https://www.kyohaku.go.jp/zh-s/)
 * [藏品](https://www.kyohaku.go.jp/zh-s/collection/)
+
+### 纽约现代艺术博物馆
+At The Museum of Modern Art and MoMA PS1, we celebrate creativity, openness, tolerance, and generosity. We aim to be inclusive places—both onsite and online—where diverse cultural, artistic, social, and political positions are welcome.
+* [https://www.moma.org/](https://www.moma.org/)
+* [The Collection](https://www.moma.org/collection/)
 
 ## 资源库
 * [中国国家图书馆](http://www.nlc.cn/)
