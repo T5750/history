@@ -160,6 +160,11 @@
 * [下载中心](http://www.qingdaomuseum.cn/publication)
 * [虚拟博物馆](http://www.qingdaomuseum.cn/xnmuseum/index)
 
+### 常熟博物馆
+* [http://www.csmuseum.cn/](http://www.csmuseum.cn/)
+* [馆藏](http://www.csmuseum.cn/#/mobile/Hall)
+* [数字展厅](http://www.csmuseum.cn/#/Mobile/MathExhibition)
+
 ### 大都会艺术博物馆
 The Met presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 * [https://www.metmuseum.org/](https://www.metmuseum.org/)
@@ -176,6 +181,11 @@ DISCOVER THE COLLECTIONS OF THE CITY OF PARIS MUSEUMS
 At The Museum of Modern Art and MoMA PS1, we celebrate creativity, openness, tolerance, and generosity. We aim to be inclusive places—both onsite and online—where diverse cultural, artistic, social, and political positions are welcome.
 * [https://www.moma.org/](https://www.moma.org/)
 * [The Collection](https://www.moma.org/collection/)
+
+### 美国艺术博物馆
+The Smithsonian American Art Museum, the nation’s first collection of American art, is an unparalleled record of the American experience.
+* [https://americanart.si.edu/](https://americanart.si.edu/)
+* [Art + Artists](https://americanart.si.edu/art)
 
 ## 资源库
 * [中国国家图书馆](http://www.nlc.cn/)
