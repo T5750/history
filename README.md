@@ -190,6 +190,9 @@ The Smithsonian American Art Museum, the nation’s first collection of American
 ## 资源库
 * [中国国家图书馆](http://www.nlc.cn/)
 * [中华古籍资源库](http://read.nlc.cn/thematDataSearch/toGujiIndex)
+* [数字科技馆](https://xnmy.cdstm.cn/)：让科学深入人心
+* [国家智慧教育读书平台](https://reading.smartedu.cn/)
+* [中国语言文字数字博物馆](https://m.ykt.eduyun.cn/)
 
 ### 世界名画
 * [故宫名画记](https://minghuaji.dpm.org.cn)
